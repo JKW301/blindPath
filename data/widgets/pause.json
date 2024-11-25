@@ -1,0 +1,64 @@
+[
+	{
+		"type" : "WT_BUTTON",
+		"name" : "resume",
+		"x" : 400,
+		"y" : 150,
+		"label" : "Resume"
+	},
+	{
+		"type" : "WT_INPUT",
+		"name" : "name",
+		"x" : 400,
+		"y" : 200,
+		"label" : "Name",
+		"maxLength" : 16
+	},
+	{
+		"type" : "WT_SLIDER",
+		"name" : "sound",
+		"x" : 400,
+		"y" : 250,
+		"label" : "Sound",
+		"step" : 10,
+		"waitOnChange" : 1
+	},
+	{
+		"type" : "WT_SLIDER",
+		"name" : "music",
+		"x" : 400,
+		"y" : 300,
+		"label" : "Music",
+		"step" : 1,
+		"waitOnChange" : 0
+	},
+	{
+		"type" : "WT_SELECT",
+		"name" : "showFPS",
+		"x" : 400,
+		"y" : 350,
+		"label" : "Show FPS",
+		"options" : [
+			"Off",
+			"On"
+		]
+	},
+	{
+		"type" : "WT_BUTTON",
+		"name" : "SaveAndQuit",
+		"x" : 400,
+		"y" : 400,
+		"label" : "Save & Quit"
+	},
+	
+	{
+		"type" : "WT_BUTTON",
+		"name" : "exit",
+		"x" : 400,
+		"y" : 450,
+		"label" : "Quit"
+	}
+
+]
+
+

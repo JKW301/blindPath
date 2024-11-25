@@ -1,0 +1,1 @@
+void initWorld(void);

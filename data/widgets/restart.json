@@ -1,0 +1,9 @@
+[
+    {
+        "type" : "WT_BUTTON",
+        "name" : "restart",
+        "x" : 400,
+        "y" : 500,
+        "label" : "Restart"
+    }
+]

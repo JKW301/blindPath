@@ -1,0 +1,3 @@
+/home/mint/Documents/fission/build/CMakeFiles/isometric04.dir
+/home/mint/Documents/fission/build/CMakeFiles/edit_cache.dir
+/home/mint/Documents/fission/build/CMakeFiles/rebuild_cache.dir

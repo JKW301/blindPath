@@ -1,0 +1,5 @@
+Player Coordinates:
+x: 4
+z: 8
+Timer: 11254
+Score: 0
